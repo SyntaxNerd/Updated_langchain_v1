@@ -44,14 +44,6 @@ It is designed for developers who want to:
 
 ---
 
-## ▶️ Run Example
-
-```bash
-python main.py
-```
-
----
-
 ## 🧪 Example Use Case
 
 * Create an AI agent
@@ -106,7 +98,6 @@ If you found this helpful:
 
 ## 👨‍💻 Author
 
-Made with 💻 by **Akash (SyntaxNerd)**
-AI Developer & Builder 🚀
+Developed by **Akash (SyntaxNerd)**
 
 ---
